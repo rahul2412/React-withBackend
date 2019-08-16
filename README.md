@@ -7,3 +7,4 @@ This is a basic example of how to connect React (a front-end library developed b
 2. NPM install.
 3. node server.js to start the node server on http://localhost:3001 which is the backend of the application.
 4. Now, move to front-react directory and npm start to deploy the react app (front-end of the application). 
+5. Application will run on http://localhost:3000
