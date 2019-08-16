@@ -10,5 +10,5 @@ This is a basic example of how to connect React (a front-end library developed b
 5. Application will run on http://localhost:3000
 
 ## Demo-
-<img src="/demo_images/capture1.jpg" alt="demo"/>
+<img src="/demo_images/Capture1.jpg" alt="demo"/>
 
