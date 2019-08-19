@@ -19,7 +19,7 @@ Home Page-
 <br><br>
 <img src="https://github.com/rahul2412/React-withBackend/blob/master/demo_images/Capture2.JPG" alt="demo"/><br>
 Passing data to node backend server-
-,hr>
+<hr>
 
 <br><br>
 <img src="https://github.com/rahul2412/React-withBackend/blob/master/demo_images/Capture3.JPG" alt="demo"/><br>
