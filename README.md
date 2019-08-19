@@ -13,11 +13,11 @@ This is a basic example of how to connect React (a front-end library developed b
 
 
 <img src="https://github.com/rahul2412/React-withBackend/blob/master/demo_images/Capture1.JPG" alt="demo"/>
-Home Page-<br><br>
+##Home Page-<br><br>
 
 
 <img src="https://github.com/rahul2412/React-withBackend/blob/master/demo_images/Capture2.JPG" alt="demo"/>
-Passing data to node backend server-<br><br>
+##Passing data to node backend server-<br><br>
 
 <img src="https://github.com/rahul2412/React-withBackend/blob/master/demo_images/Capture3.JPG" alt="demo"/>
 
